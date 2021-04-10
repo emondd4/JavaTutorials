@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#225571</color>
+    <color name="colorPrimaryDark">#003978</color>
+    <color name="colorAccent">#44A6A8</color>
+    <color name="kabacolor">#FF0000</color>
+    <color name="normalcolor">#000000</color>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Sawom 2020'
+include ':app'
