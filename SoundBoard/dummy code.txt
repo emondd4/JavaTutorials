@@ -1,0 +1,863 @@
+btn6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.amrachaileiparbo);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.amrachaileiparbo);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.babamakoi);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.babamakoi);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.barobhatari);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.barobhatari);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.bujhauchit);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.bujhauchit);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.bye);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.bye);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.byeily);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.byeily);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn12.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.chesra);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.chesra);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn13.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.chesranataina);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.chesranataina);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn14.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.choloasiferbasaymeetkori);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.choloasiferbasaymeetkori);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.chuchu);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.chuchu);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn16.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.dadakikore);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.dadakikore);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn17.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.dodu);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.dodu);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.ektajinishposondohoise);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.ektajinishposondohoise);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn19.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.gelam_tata);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.gelam_tata);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn20.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.jahowarhbe);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.jahowarhbe);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn21.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.janivulegeso);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.janivulegeso);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn22.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.jantamvalovabenibana);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.jantamvalovabenibana);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn23.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.khaileboilo);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.khaileboilo);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn24.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kidiyekhaila);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kidiyekhaila);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn25.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kikharapdkla);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kikharapdkla);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn26.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kikoro);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kikoro);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn27.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kkhnkhaba);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kkhnkhaba);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn28.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.koitumi);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.koitumi);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn29.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kotodinasiferbasaymeetkorina);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kotodinasiferbasaymeetkorina);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn30.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kotodinhugdeina);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.kotodinhugdeina);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn31.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.magicdkba);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.magicdkba);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn32.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.mejajkharapkoirona);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.mejajkharapkoirona);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn33.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.murkho);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.murkho);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn34.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.nakorsilamna);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.nakorsilamna);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn35.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.nanathikase);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.nanathikase);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn36.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.nexttimejaninadekhi);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.nexttimejaninadekhi);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn37.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.normalmonehocche);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.normalmonehocche);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn38.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.onnykikore);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.onnykikore);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn39.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.orakewmsgdisiloar);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.orakewmsgdisiloar);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn40.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.senseless);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.senseless);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn41.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.seriously);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.seriously);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn42.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.shonoektakothaboli);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.shonoektakothaboli);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn43.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.surprisedei);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.surprisedei);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn44.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.taina);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.taina);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn45.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.takanai);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.takanai);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn46.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tata);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tata);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn47.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.thirspersonjaninaashe);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.thirspersonjaninaashe);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn48.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tomarbonarsobujerkikhobor);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tomarbonarsobujerkikhobor);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn49.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tomarchokhgula);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tomarchokhgula);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn50.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tonny);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tonny);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn51.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tonnykikrteso);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tonnykikrteso);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn52.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tonnyseriously);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tonnyseriously);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn53.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tumikhaiso);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tumikhaiso);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn54.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tumipromisedisila);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tumipromisedisila);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn55.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.vallagtesenaamar);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.vallagtesenaamar);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn56.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.whatsappekikoro);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.whatsappekikoro);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn57.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tmrmathayhatbulay);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.tmrmathayhatbulay);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn58.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.ghumawnakn);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.ghumawnakn);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
+
+        btn59.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (mediaPlayer != null){
+                    mediaPlayer.release();
+                    mediaPlayer = null;
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.joraydhorteicchakrtese);
+                    mediaPlayer.start();
+                }else {
+                    mediaPlayer = MediaPlayer.create(getApplicationContext(),R.raw.joraydhorteicchakrtese);
+                    mediaPlayer.start();
+                }
+
+            }
+        });
